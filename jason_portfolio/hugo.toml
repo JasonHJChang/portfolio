@@ -1,0 +1,5 @@
+baseURL = 'https://jasonhjchang.github.io'
+relativeURLs = 'True'
+languageCode = 'en-us'
+title = 'Hello Im Jason'
+theme = 'FixIt'

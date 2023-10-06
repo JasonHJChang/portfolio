@@ -1,0 +1,10 @@
+[submodule "jason_portfolio/themes/PaperMod"]
+	path = jason_portfolio/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "jason_portfolio/public"]
+	path = jason_portfolio/public
+	url = https://github.com/JasonHJChang/JasonHJChang.github.io.git
+	branch = main
+[submodule "jason_portfolio/themes/FixIt"]
+	path = jason_portfolio/themes/FixIt
+	url = https://github.com/hugo-fixit/FixIt.git
